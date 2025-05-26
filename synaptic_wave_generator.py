@@ -12,7 +12,7 @@ class WaveGeneratorGUI(ctk.CTk):
     def __init__(self):
         super().__init__()
         self.title("Synaptic Wave Generator")
-        self.geometry("480x800")
+        self.geometry("600x850")
         self.resizable(False, False)
         self.all_cycles = []
 
