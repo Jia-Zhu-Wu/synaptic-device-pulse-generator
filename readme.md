@@ -1,0 +1,3 @@
+此工具專門用來製作CSV檔去量測突觸脈衝元件，可以自訂義一個周期的波要長什麼樣子，並且最後結束時間所要持續的時間也可以自訂義，實際量測軟體為ACS basic，此資料夾內會有pdf檔呈現實際量測情況與操作
+
+This tool is specifically designed for creating CSV files for synaptic pulse device measurements. It allows users to customize the waveform of each cycle and set the duration of the final holding period. The measurements are performed using ACS Basic software. PDF files included in this folder illustrate the actual measurement conditions and provide operating instructions.
